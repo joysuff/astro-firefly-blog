@@ -6,6 +6,7 @@ description: "git代理的配置与删除"
 tags: [Git,Proxy]
 category: "版本控制工具"
 draft: false
+image: api
 ---
 # 全局代理（所有仓库生效）
 ## 配置 HTTP/HTTPS 代理
