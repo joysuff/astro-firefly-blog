@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "终不似，少年游",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.joysuff.cc.cd",
 
 	// 站点描述
 	description:
