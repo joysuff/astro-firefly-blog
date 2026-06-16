@@ -76,13 +76,13 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/CuteLeaf/Firefly",
+				url: "https://github.com/joysuff",
 				external: true,
 				icon: "fa7-brands:github",
 			},
 			{
 				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
+				url: "https://gitee.com/joysuff",
 				external: true,
 				icon: "fa7-brands:gitee",
 			},
@@ -158,7 +158,7 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:chat",
 	},
 	About: {
-		name: "关于我",
+		name: "关于本站",
 		url: "/about/",
 		icon: "material-symbols:person",
 	},
