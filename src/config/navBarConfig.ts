@@ -64,6 +64,14 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 			// 关于页面
 			LinkPresets.About,
+
+			// 监控面板
+			{
+				name: "网站统计",
+				url: "https://umami.joysuff.cc.cd/share/sDTDiYrczuMRto6z",
+				external: true,
+				icon: "fa7-solid:chart-simple",
+			},
 		],
 	});
 
@@ -85,12 +93,6 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				url: "https://gitee.com/joysuff",
 				external: true,
 				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
-				external: true,
-				icon: "fa7-brands:qq",
 			},
 			{
 				name: "Firefly文档",

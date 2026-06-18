@@ -34,6 +34,14 @@ export const galleryConfig: GalleryConfig = {
 			password: "123456",
 			passwordHint: "示例密码123456",
 		},
+		{
+			id: "cat",
+			name: "可爱猫猫",
+			description: "以前在学校拍的小猫咪，还有群友拍的",
+			location: "西安理工大学",
+			date: "2025-10-01",
+			tags: ["小猫咪"],
+		},
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240

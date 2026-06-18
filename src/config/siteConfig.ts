@@ -6,7 +6,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "我の博客",
+	title: "Joysuff's Blog",
 
 	// 站点副标题
 	subtitle: "终不似，少年游",
